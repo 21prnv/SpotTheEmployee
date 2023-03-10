@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/21prnv/SpotTheEmployee/static/css/main.6c772ddb.css",
+    "main.js": "/21prnv/SpotTheEmployee/static/js/main.d7b5d11d.js",
+    "static/js/787.e81cdb14.chunk.js": "/21prnv/SpotTheEmployee/static/js/787.e81cdb14.chunk.js",
+    "index.html": "/21prnv/SpotTheEmployee/index.html",
+    "main.6c772ddb.css.map": "/21prnv/SpotTheEmployee/static/css/main.6c772ddb.css.map",
+    "main.d7b5d11d.js.map": "/21prnv/SpotTheEmployee/static/js/main.d7b5d11d.js.map",
+    "787.e81cdb14.chunk.js.map": "/21prnv/SpotTheEmployee/static/js/787.e81cdb14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c772ddb.css",
+    "static/js/main.d7b5d11d.js"
+  ]
+}
